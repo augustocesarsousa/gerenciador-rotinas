@@ -35,7 +35,7 @@ Este projeto foi desenvolvido para a empresa [Lojas Don Paco](https://www.donpac
     ![Tela de consulta de metas](./imagens/05_consulta_de_metas.jpg)
 
 6.  Consulta de metas - vendas
-    ![Tela de consulta de metas - vendas](./imagens/05_consulta_de_metas.jpg)
+    ![Tela de consulta de metas - vendas](./imagens/06_consulta_de_metas_vendas.jpg)
 
 7.  Consulta de metas - devoluções
     ![Tela de consulta de metas - devoluções](./imagens/07_consulta_de_metas_devolucao.jpg)
